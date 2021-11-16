@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ssh-dev
+- 👋 Hi, I’m @sshpro
 - 👀 I’m interested in apps
 - 🌱 I’m currently learning system design and architecture
 - 💞️ I’m looking to collaborate on system design
